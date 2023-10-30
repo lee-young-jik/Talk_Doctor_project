@@ -73,14 +73,7 @@
 환자가 아플 때 어느 병원에 가야하는지, 또 유사한 증상에는 어떤 것이 있는지 밀리 알려주어 병원에 가기 전 편의를 제공하기 위함입니다.
 
 ###**기술 스택:**
-
-![기술 스택 이미지](https://github.com/lee-young-jik/Talk_Doctor_project/issues/1#issue-1967520080)
-
-### 1. 로그인 화면
-
-![로그인 화면](https://github.com/lee-young-jik/Django_djangogram/assets/91588673/ffb42ba8-6ad1-4b51-94ed-593c7e810b9f)
- 
-
+![data_기술스택](https://github.com/lee-young-jik/Talk_Doctor_project/assets/91588673/30a7ee9a-2cfa-4243-ac41-e7097a393f19)
 
 
 
