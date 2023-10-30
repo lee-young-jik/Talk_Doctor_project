@@ -1,7 +1,7 @@
 
 # Talk_Doctor_project
 <hr>
-##프로젝트 기간
+## 프로젝트 기간 : 2023.08.01~2023.10.24
 
 ## 기여자 (Contributors) ✨
 
