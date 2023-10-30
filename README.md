@@ -1,5 +1,5 @@
 # Talk_Doctor_project# BigData_Final_Project
-
+<img src="https://github.com/lee-young-jik/BigData_Final_Project/raw/main/path/to/your/image.png" alt="이미지 설명">
 ## 기여자 (Contributors) ✨
 
 <table>
