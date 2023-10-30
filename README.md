@@ -70,7 +70,8 @@
 
 **주제선정 이유:**
 환자가 아플 때 어느 병원에 가야하는지, 또 유사한 증상에는 어떤 것이 있는지 밀리 알려주어 병원에 가기 전 편의를 제공하기 위함입니다.
-<hr>
+
+
 **기술 스택:**
 ![data_기술스택](https://github.com/lee-young-jik/Talk_Doctor_project/assets/91588673/30a7ee9a-2cfa-4243-ac41-e7097a393f19)
 
