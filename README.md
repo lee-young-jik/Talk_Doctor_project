@@ -66,7 +66,10 @@
 </table>
 
 <hr/>
-<img src="https://github.com/lee-young-jik/BigData_Final_Project/issues/1#issue-1860908762" alt="이미지 설명">
+<!-- <img src="https://github.com/lee-young-jik/BigData_Final_Project/issues/1#issue-1860908762" alt="이미지 설명">
+-->
+<img src="https://github.com/lee-young-jik/BigData_Final_Project/raw/main/path/to/your/image.png" alt="이미지 설명">
+
 
 <hr>
 
