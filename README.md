@@ -1,5 +1,7 @@
-# BigData_Final_Project
+
 # Talk_Doctor_project
+<hr>
+##프로젝트 기간
 
 ## 기여자 (Contributors) ✨
 
